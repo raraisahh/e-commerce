@@ -38,9 +38,6 @@ Fleur de Cake adalah platform e-commerce yang menyediakan berbagai macam kue ber
 - **SweetAlert2**: Library untuk menampilkan notifikasi dan pop-up interaktif.
 - **React-to-Print & jsPDF**: Library untuk mencetak dan mengunduh invoice dalam format PDF.
 
-## Live App Demo
-Lihat aplikasi yang telah dideploy di sini: [Fleur de Cake Live Demo](#)
-
 ## Setup 
 
 1. **Clone repository ini:**
